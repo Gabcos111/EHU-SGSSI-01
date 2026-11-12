@@ -1,5 +1,63 @@
 # Releases
 
+## 2026-2027-10
+
+* DevSecOps
+* Seguridad Web, Labo ZAP Mutillidae (Pen-testing), Burp suite: SQL injection, Burp suite: Web shell
+* Seguridad red, Labo firewall, Labo NMAP, Labo load balancer, Labo reverse proxy, Labo suricata
+* Seguridad red, Labo Wireshark, Labo VPC Google Cloud
+* Cifrado aplicaciones (+labo)
+* Cifrado asimetrico (+labo)
+* Cifrado simetrico (+labo)
+* Introduccion, Cifrado introduccion (+labo)
+* Laboratorios básicos: Git, Google Cloud, Docker
+* Mejora README
+
+## 2026-2027-9
+
+* Seguridad Web, Labo ZAP Mutillidae (Pen-testing), Labo Burp suite (Ataque)
+* Seguridad red, Labo firewall, Labo NMAP, Labo load balancer, Labo reverse proxy, Labo suricata
+* Seguridad red, Labo Wireshark, Labo VPC Google Cloud
+* Cifrado aplicaciones (+labo)
+* Cifrado asimetrico (+labo)
+* Cifrado simetrico (+labo)
+* Introduccion, Cifrado introduccion (+labo)
+* Laboratorios básicos: Git, Google Cloud, Docker
+* Mejora README
+
+## 2026-2027-8
+
+* Seguridad web, labo pen-testing
+* Seguridad red II, Labo firewall, Labo load balancer, Labo reverse proxy, Labo suricata
+* Seguridad red I, Labo Wireshark, Labo VPC Google Cloud
+* Cifrado aplicaciones (+labo)
+* Cifrado asimetrico (+labo)
+* Cifrado simetrico (+labo)
+* Introduccion, Cifrado introduccion (+labo)
+* Laboratorios básicos: Git, Google Cloud, Docker
+* Mejora README
+
+## 2026-2027-7
+
+* Seguridad red II, Labo firewall, Labo load balancer, Labo reverse proxy, Labo suricata
+* Seguridad red I, Labo Wireshark, Labo VPC Google Cloud
+* Cifrado aplicaciones (+labo)
+* Cifrado asimetrico (+labo)
+* Cifrado simetrico (+labo)
+* Introduccion, Cifrado introduccion (+labo)
+* Laboratorios básicos: Git, Google Cloud, Docker
+* Mejora README
+
+## 2026-2027-6
+
+* Seguridad red I, Labo Wireshark, Labo VPC Google Cloud
+* Cifrado aplicaciones (+labo)
+* Cifrado asimetrico (+labo)
+* Cifrado simetrico (+labo)
+* Introduccion, Cifrado introduccion (+labo)
+* Laboratorios básicos: Git, Google Cloud, Docker
+* Mejora README
+
 ## 2026-2027-5
 
 * Cifrado aplicaciones (+labo)
